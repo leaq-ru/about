@@ -33,6 +33,10 @@ First you need to run some infrastructure services:
 
 Any service accept config via environment variables. Go services has a config at `config/config.go`. [Wappalyzer](https://github.com/leaq-ru/wappalyzer) config at `config/env.js`. [Web](https://github.com/leaq-ru/web) config at `nuxt.config.js`
 
+### Code
+
+Discover repositories [here](https://github.com/leaq-ru)
+
 ### Deploy
 
 You can build code from source or use [Docker images](https://github.com/orgs/leaq-ru/packages). Also, each service has K8s manifest
